@@ -20,18 +20,19 @@ User can then login to the banking application and check his account balence, cu
 User can withdraw, deposit and check their transaction history through this portal.
  <br>
  
-<strong>User interface - 1
+<strong>Login Page
 <br>
-![Screenshot (296)](https://github.com/Sharathrao01/absr-pay/assets/86926101/5ed8f0fe-6658-4ae5-92ee-321cd3d42413)
+![Screenshot (294)](https://github.com/Sharathrao01/absr-pay/assets/86926101/3e4009e8-bf21-4806-b48f-48023dbacfd4)
+
 <br>
 <br>
-<strong>User Interface - 2
+<strong>Open Account page
 <br>
 ![Screenshot (309)](https://github.com/Sharathrao01/absr-pay/assets/86926101/fba704d0-e453-4afc-9374-ada7ba8a1d6c)
 
 <br>
 <br>
-<strong>User interface - 3
+<strong>User Dashboard
 <br>
   
 ![Screenshot (296)](https://github.com/Sharathrao01/absr-pay/assets/86926101/e868cc7e-e739-4ae5-abbf-c7553ef8b8ee)
