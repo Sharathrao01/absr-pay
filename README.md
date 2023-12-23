@@ -22,14 +22,15 @@ User can withdraw, deposit and check their transaction history through this port
  
 <strong>Login Page
 <br>
-![Screenshot (294)](https://github.com/Sharathrao01/absr-pay/assets/86926101/3e4009e8-bf21-4806-b48f-48023dbacfd4)
+![Screenshot (295)](https://github.com/Sharathrao01/absr-pay/assets/86926101/1cd44b97-62d7-40ae-b4b2-3cc96b1baf73)
+
 
 <br>
 <br>
 <strong>Open Account page
 <br>
+ 
 ![Screenshot (309)](https://github.com/Sharathrao01/absr-pay/assets/86926101/fba704d0-e453-4afc-9374-ada7ba8a1d6c)
-
 <br>
 <br>
 <strong>User Dashboard
